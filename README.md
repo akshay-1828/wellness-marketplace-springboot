@@ -95,4 +95,3 @@ springboard/
 │
 ├── uploads/
 ├── .gitignore
-└── README.md
