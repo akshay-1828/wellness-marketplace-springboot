@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Compression sleeve">
+  <rect width="640" height="400" fill="#F9FAFB"/>
+  <rect x="40" y="40" width="560" height="320" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <path d="M290 92h60l30 90-30 170h-60l-30-170 30-90z" fill="#E5E7EB"/>
+  <path d="M282 170h76M276 210h88M270 250h100" stroke="#D1D5DB" stroke-width="10" stroke-linecap="round"/>
+  <text x="320" y="330" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="22" fill="#374151">Sleeve</text>
+</svg>

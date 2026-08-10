@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Hand surgery">
+  <rect width="640" height="400" fill="#F9FAFB"/>
+  <rect x="40" y="40" width="560" height="320" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <path d="M270 255c0 22 18 40 40 40h30c22 0 40-18 40-40v-88c0-10-8-18-18-18-9 0-16 7-16 16v-7c0-10-8-18-18-18-9 0-16 7-16 16v-10c0-10-8-18-18-18-9 0-16 7-16 16v-8c0-10-8-18-18-18-9 0-16 7-16 16v103z" fill="#E5E7EB"/>
+  <text x="320" y="330" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="22" fill="#374151">Hand Care</text>
+</svg>

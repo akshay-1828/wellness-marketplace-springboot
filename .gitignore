@@ -1,0 +1,46 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# =========================
+# Java / Maven
+# =========================
+**/target/
+*.class
+
+# =========================
+# Node / React
+# =========================
+**/node_modules/
+**/build/
+**/dist/
+
+# =========================
+# Environment & Secrets
+# =========================
+.env
+.env.*
+application-local.properties
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Uploaded/generated files
+# =========================
+uploads/*
+demo-backend/demo/uploads/*
+demo-backend/demo/uploads/products/*
+demo-backend/demo/uploads/reviews/*
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db

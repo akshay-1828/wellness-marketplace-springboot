@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Monitor">
+  <rect width="640" height="400" fill="#F9FAFB"/>
+  <rect x="40" y="40" width="560" height="320" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="170" y="120" width="300" height="180" rx="22" fill="#E5E7EB"/>
+  <path d="M210 220h40l20-40 30 80 24-60 18 20h58" fill="none" stroke="#6B7280" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="330" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="22" fill="#374151">Monitor</text>
+</svg>
